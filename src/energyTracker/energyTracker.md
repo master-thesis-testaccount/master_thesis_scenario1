@@ -1,0 +1,1 @@
+/* Initial structure in energyTracker by Student B */
